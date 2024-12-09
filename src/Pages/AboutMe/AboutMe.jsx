@@ -25,7 +25,7 @@ const AboutMe = () => {
 
             {/* my profile */}
             <div className=' rounded-lg'>
-                <Loader></Loader>
+                {/* <Loader></Loader> */}
             </div>
         </div>
     );
