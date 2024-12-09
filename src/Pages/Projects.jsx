@@ -6,7 +6,7 @@ const Projects = () => {
         <div className="my-12">
             <p className="text-4xl text-black text-center mt-16 font-bold my-8">Projects</p>
             <div className="divider bg-black h-1 mt-16 container mx-auto"></div>
-            <div className="flex justify-center gap-5 mt-16">
+            <div className="md:flex justify-center gap-5 mt-16">
                 <div>
                     <div className="card bg-base-100 md:w-[500px] shadow-xl rounded-t-none">
                         <figure>
